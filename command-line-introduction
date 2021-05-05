@@ -1,0 +1,29 @@
+The Linux Command Line, 2nd Edition. Copyright © 2019 by William Shotts.
+
+Linux Command Line:
+Moving Through Directories/
+pwd - displays current working directory
+ls - list the contents of the current directory
+cd - change directory 
+cd  return to home directory
+cd - return to previous working directory
+cd directory changes to the folder named directory//
+
+Explore the system/
+ls -l output to long format
+ls -a lists all files (hidden & unhidden)
+ls -d lists directory only, not what's in it (use with -l)
+ls -s sorts by file size (use with -h)
+ls -t sorts by modification time
+file filename determines the file type
+less filename allows viewing text content (quit with q xD)//
+
+Directories found on Linux:
+Contains some cool infos, not interested in that.
+
+Wildcards:
+They are pretty good to learn to copy things with cp, time?
+
+mkdir "directory" creates a directory
+cp thing folder to copy folder and thing into folder wanted.
+mv thing can move and file rename thing.
